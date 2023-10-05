@@ -1,13 +1,14 @@
 # ExcelProject_Alex_The_AnalystBootCamp
 
 Bike Sales Dashboard (Excel-based)
+
 Table of Contents
+
 Introduction
 Getting Started
 Data Description
-Screenshots
-Contributing
-License
+
+
 Introduction
 The Bike Sales Dashboard is an Excel-based tool designed to provide insights into bike sales data. It allows users to analyze customer demographics and purchasing behavior using Excel's powerful features.
 
